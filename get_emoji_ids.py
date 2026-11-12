@@ -6,7 +6,7 @@ Bot lấy Telegram Premium Custom Emoji ID.
 Cài đặt: pip install -U python-telegram-bot
 Chạy:
   Windows PowerShell: $env:BOT_TOKEN="TOKEN_MOI"; python get_emoji_ids.py
-  Linux/macOS: BOT_TOKEN="TOKEN_MOI" python get_emoji_ids.py
+  Linux/macOS: BOT_TOKEN="9064003511:AAFrWgjcXnKylczMpbzja5hLThm4E3aeopU" python get_emoji_ids.py
 """
 
 import os
